@@ -17,12 +17,12 @@
     ],
     "require": {
         "php": "^7.1 || ^8.0",
-        "doctrine/inflector": "^1.0",
-        "doctrine/cache": "^1.0",
-        "doctrine/collections": "^1.0",
-        "doctrine/lexer": "^1.0",
-        "doctrine/annotations": "^1.0",
-        "doctrine/event-manager": "^1.0",
+        "oldpak/inflector": "^1.0",
+        "oldpak/cache": "^1.0",
+        "oldpak/collections": "^1.0",
+        "oldpak/lexer": "^1.0",
+        "oldpak/annotations": "^1.0",
+        "oldpak/event-manager": "^1.0",
         "oldpak/reflection": "^1.0",
         "oldpak/persistence": "^1.0"
     },
@@ -30,7 +30,7 @@
         "phpstan/phpstan": "^0.11",
         "phpstan/phpstan-phpunit": "^0.11",
         "phpunit/phpunit": "^7.0",
-        "doctrine/coding-standard": "^1.0",
+        "doctrine/coding-standard": "^9.0",
         "squizlabs/php_codesniffer": "^3.0",
         "symfony/phpunit-bridge": "^4.0.5"
     },
